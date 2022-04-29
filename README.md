@@ -1,6 +1,4 @@
-https://productmd.netlify.app/
 
-![Animation](https://user-images.githubusercontent.com/82046540/161427498-ddd35b26-494c-474b-b7bf-83e5832af2b8.gif)
 
 # Getting Started with Create React App
 
